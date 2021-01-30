@@ -10,7 +10,15 @@ public class Practice05 {
 //		 9~11을 입력했다면 "가을입니다."
 //		 1, 2, 12를 입력했다면 "겨울입니다."
 //		 1~12가 아닌 값을 입력했다면 "잘못 입력하셨습니다."
-		
+		switch() {
+		case 1: case 2: case 3:
+			System.out.println();
+			break;
+		}
 		
 	}
 }
+
+
+
+
