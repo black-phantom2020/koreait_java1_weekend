@@ -22,9 +22,9 @@ public class Equals {
 		String str3 = new String("안녕");
 		
 		boolean result4 = (str1 == str2);
-		System.out.println("result4: " +result4);
+		System.out.println("result4: " +result4); // true
 		boolean result5 = (str1 == str3);
-		System.out.println("result5: " +result5);
+		System.out.println("result5: " +result5); // false
 		
 		boolean result6 = ("안녕".equals(str3));
 		System.out.println("result6: " +result6);
